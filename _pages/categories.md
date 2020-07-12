@@ -1,6 +1,6 @@
 ---
 title: "Posts by Category"
-exceprt: "Blog posting about academic journeys includes teaching, research, publication, fellowship, tutorials, and another academic things."
+exceprt: "Blog posting."
 permalink: /categories/
 layout: categories
 header: 
