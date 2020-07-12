@@ -94,10 +94,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sigit Purnomo"
+  name             : "Tarun Krishna"
   avatar           : "/assets/images/profile-picture.jpeg"
-  bio              : "Senior Lecturer at Informatics Department, Universitas Atma Jaya Yogyakarta"
-  location         : "Yogyakarta, Indonesia"
+  bio              : "Ph.D Candidate (Machine Learning and Computer Vision) at Dublin City University"
+  location         : "Dublin Ireland"
   email            :
   links:
     - label: "Email"
@@ -137,39 +137,39 @@ author:
       
 # Site Footer
 footer:
-  links:
-    - label: "Scholar"
-      icon: "ai ai-google-scholar"
-      url: "https://scholar.google.com/citations?user=RalnBvQAAAAJ&hl=en"
-    - label: "Scopus"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.scopus.com/authid/detail.uri?authorId=57189248049"
-    - label: "Orcid"
-      icon: "ai ai-orcid"
-      url: "http://orcid.org/0000-0002-3079-6842"
-    - label: "Researchgate"
-      icon: "ai ai-researchgate"
-      url: "https://www.researchgate.net/profile/Yohanes_Sigit_Purnomo_Wp"
-    - label: "SINTA"
-      icon: "fas fa-fw fa-link"
-      url: "http://sinta.ristekbrin.go.id/authors/detail?id=5976016&view=overview"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/sigitpurnomo"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/sigit-purnomo"
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+#   links:
+#     - label: "Scholar"
+#       icon: "ai ai-google-scholar"
+#       url: "https://scholar.google.com/citations?user=RalnBvQAAAAJ&hl=en"
+#     - label: "Scopus"
+#       icon: "fas fa-fw fa-link"
+#       url: "https://www.scopus.com/authid/detail.uri?authorId=57189248049"
+#     - label: "Orcid"
+#       icon: "ai ai-orcid"
+#       url: "http://orcid.org/0000-0002-3079-6842"
+#     - label: "Researchgate"
+#       icon: "ai ai-researchgate"
+#       url: "https://www.researchgate.net/profile/Yohanes_Sigit_Purnomo_Wp"
+#     - label: "SINTA"
+#       icon: "fas fa-fw fa-link"
+#       url: "http://sinta.ristekbrin.go.id/authors/detail?id=5976016&view=overview"
+#     - label: "Twitter"
+#       icon: "fab fa-fw fa-twitter-square"
+#       url: "https://twitter.com/sigitpurnomo"
+#     - label: "Facebook"
+#       icon: "fab fa-fw fa-facebook-square"
+#       # url:
+#     - label: "GitHub"
+#       icon: "fab fa-fw fa-github"
+#       url: "https://github.com/sigit-purnomo"
+#     - label: "GitLab"
+#       icon: "fab fa-fw fa-gitlab"
+#       # url:
+#     - label: "Bitbucket"
+#       icon: "fab fa-fw fa-bitbucket"
+#       # url:
+#     - label: "Instagram"
+#       icon: "fab fa-fw fa-instagram"
       # url:
 
 
